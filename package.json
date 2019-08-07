@@ -1,0 +1,14 @@
+{
+  "name": "my-react-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jinxin0112/my-react-redux.git",
+  "author": "jinxin0112 <m18508218948@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.8.24",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "redux": "^4.0.4"
+  }
+}
